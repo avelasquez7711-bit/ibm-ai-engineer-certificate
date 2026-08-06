@@ -6,3 +6,5 @@ The folder contains the modules with hands-on labs for the Machine Learning with
 * ## 📁 [Module 4: Building Unsupervised Learning Models](./module-04-unsupervised-learning-models/)
 * ## 📁 [Module 5: Evaluating and Validating Machine Learning Models](./module-05-evaluate-ml-models/)
 * ## 📁 [Module 6: Final Project and Exam](./module-06-final-project-exam/)
+
+![IBM Certificate](./AVelasq_ML_Python.jpeg)
