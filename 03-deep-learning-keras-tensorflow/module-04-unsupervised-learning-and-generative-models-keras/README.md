@@ -1,4 +1,4 @@
-# Module 4: Transformers in Keras
+# Module 4: Unsupervised Learning and Generative Models in Keras
 The folder contains the hands-on labs for Module 4 of [Deep Learning with Keras and Tensorflow](../../03-deep-learning-keras-tensorflow/) course.
 
 ## [Lab 1: Building Autoencoders](./Building_Autoencoders.ipynb) Objectives

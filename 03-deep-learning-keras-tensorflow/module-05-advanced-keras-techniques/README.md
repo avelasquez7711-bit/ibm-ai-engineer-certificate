@@ -1,4 +1,4 @@
-# Module 5: Transformers in Keras
+# Module 5: Advanced Keras Techniques
 The folder contains the hands-on labs for Module 5 of [Deep Learning with Keras and Tensorflow](../../03-deep-learning-keras-tensorflow/) course.
 
 ## [Lab 1: Custom Training Loops in Keras](./Custom_Training_Loops_Keras.ipynb) Objectives
