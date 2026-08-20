@@ -16,3 +16,9 @@ After completing this lab, you will be able to:
 After completing this lab, you will be able to:
 - Acquire practical understanding of diffusion model architectures, data processing, model training, and performance evaluation 
 - Implement, train, and evaluate diffusion models using Keras 
+
+## [Lab 3: Develop GANs Using Keras](./Develop_GANs_using_Keras.ipynb) Objectives
+
+After completing this lab, you will be able to:
+- Build, train, and evaluate GANs using Keras 
+- Explore GAN architectures, data preprocessing, model training, and performance evaluation 
