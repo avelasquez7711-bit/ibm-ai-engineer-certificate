@@ -9,3 +9,12 @@ After completing this lab, you will be able to:
 - Implement a custom training loop 
 - Enhance a custom training loop by adding an accuracy metric to monitor model performance 
 - Implement a custom callback to log additional metrics and information during training
+
+## [Lab 2: Hyperparameter Tuning with Keras Tuner](./Hyperparameter_Tuning_with_Keras_Tuner.ipynb) Objectives
+
+After completing this lab, you will be able to:
+- Install Keras Tuner and import the necessary libraries
+- Load and preprocess the MNIST data set
+- Define a model-building function that uses hyperparameters to configure the model architecture
+- Set up Keras Tuner to search for the best hyperparameter configuration 
+- Retrieve the best hyperparameters from the search and build a model with these optimized values
