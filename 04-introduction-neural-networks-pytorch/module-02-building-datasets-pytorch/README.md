@@ -7,7 +7,7 @@ After completing this lab, you will be able to:
 - Create a dataset in pytorch
 - Perform transformations on the dataset
 
-## [Lab 2: Torch Vision Datasets](./simple_data_set_v2.ipynb) Objectives
+## [Lab 2: Torch Vision Datasets](./pre-Built%20Datasets_and_transforms_v2.ipynb) Objectives
 
 After completing this lab, you will be able to:
 - Use MNIST prebuilt dataset in pytorch
