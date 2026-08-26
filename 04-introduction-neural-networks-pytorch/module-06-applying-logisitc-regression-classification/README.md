@@ -5,3 +5,8 @@ The folder contains the hands-on labs for Module 6 of [Introduction to Neural Ne
 
 After completing this lab, you will learn:
 - How to create a logistic regression object with the nn.Sequential model.
+
+## [Lab 2: Logistic Regression Mean Square Error](.//bad_inshilization_logistic_regression_with_mse.ipynb) Objectives
+
+After completing this lab, you will learn:
+- How bad initialization value can affect the accuracy of model.
