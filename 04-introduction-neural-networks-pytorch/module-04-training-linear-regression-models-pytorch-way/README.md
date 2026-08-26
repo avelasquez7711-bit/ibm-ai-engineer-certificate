@@ -16,3 +16,10 @@ After completing this lab, you will be able to:
 
 After completing this lab, you will be able to:
 - Use PyTorch build-in functions to create a model.
+
+## [Lab 4: Training, Validation, and Test Split in PyTorch](./training_and_validation_v3.ipynb) Objectives
+
+After completing this lab, you will be able to:
+- Learn to select the best learning rate by using validation data.
+- Create a Linear Regression Object Data Loader and Criterion Function
+- Use learning rate hyperparameter to improve your model result.
